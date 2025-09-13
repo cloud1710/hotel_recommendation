@@ -1,6 +1,7 @@
-streamlit
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+streamlit==1.38.0
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+requests>=2.31
+joblib>=1.3
+python-dateutil>=2.8
